@@ -1,0 +1,201 @@
+﻿Row ID,Segment,Company,Region,Country,State,City,Customer ID,Customer Name,Order Date,Order ID,Ship Date,Ship Mode,Product Code,Sub Category,Product ID,Product Name,Quantity,Discount,Sales,Profit
+1,Domestic,101,Northeast,USA,NY,New York,1001,Barron,01/01/22,220001,01/10/22,Fastest,A10,C,89112,Blue One,12,0.07,513.00 ,92.34 
+2,Domestic,101,Northeast,USA,NY,New York,1091,Barron,01/01/22,220002,01/10/22,Fastest,B20,D,89113,Red One,96,0.12,"12,547.00 ","1,631.11 "
+3,International,1101,Europe,UK,London,London,2001,Biscuit,01/01/22,220003,01/10/22,Cheapest,A10,C,89112,Blue One,9,0.00,"1,215.00 ",303.75 
+4,International,1101,Europe,UK,London,London,2001,Biscuit,01/01/22,220004,01/10/22,Cheapest,C30,A,89114,White One,60,0.07,"9,215.00 ","1,658.70 "
+5,Domestic,102,Central,USA,IL,Chicago,1002,Maizefield,01/02/22,220005,01/11/22,Cheapest,B20,D,89113,Red One,7,0.05,858.00 ,171.60 
+6,Domestic,102,Central,USA,IL,Chicago,1092,Maizefield,01/02/22,220006,01/11/22,Fastest,C30,A,89114,White One,4,0.00,309.00 ,77.25 
+7,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/02/22,220007,01/11/22,Cheapest,B20,D,89113,Red One,24,0.05,894.00 ,178.80 
+8,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/02/22,220008,01/11/22,Cheapest,A10,C,89112,Blue One,36,0.05,"5,068.00 ","1,013.60 "
+9,Domestic,201,Southeast,USA,GA,Atlanta,1003,Peachtree,01/03/22,220009,01/12/22,Cheapest,C30,A,89114,White One,15,0.12,866.00 ,112.58 
+10,Domestic,201,Southeast,USA,GA,Atlanta,1093,Peachtree,01/03/22,220010,01/12/22,Cheapest,A10,C,89112,Blue One,60,0.05,"9,690.00 ","1,938.00 "
+11,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/03/22,220011,01/12/22,Fastest,C30,A,89114,White One,1,0.00,140.00 ,35.00 
+12,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/03/22,220012,01/12/22,Cheapest,B20,D,89113,Red One,96,0.12,"7,617.00 ",990.21 
+13,Domestic,203,Southwest,USA,TX,Dallas,1004,Festus,01/04/22,220013,01/13/22,Cheapest,A10,D,89112,Blue One,9,0.00,483.00 ,120.75 
+14,Domestic,203,Southwest,USA,TX,Dallas,1094,Festus,01/04/22,220014,01/13/22,Cheapest,A10,C,89112,Blue One,12,0.07,679.00 ,122.22 
+15,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/04/22,220015,01/13/22,Cheapest,B20,D,89113,Red One,7,0.05,833.00 ,166.60 
+16,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/04/22,220016,01/13/22,Fastest,C30,A,89114,White One,4,0.00,512.00 ,128.00 
+17,Domestic,301,West,USA,CA,San Francisco,1005,Wigwam,01/05/22,220017,01/14/22,Fastest,B20,C,89113,Red One,24,0.05,"3,464.00 ",692.80 
+18,Domestic,301,West,USA,CA,San Francisco,1095,Wigwam,01/05/22,220018,01/14/22,Cheapest,B20,D,89113,Red One,7,0.05,523.00 ,104.60 
+19,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/05/22,220019,01/14/22,Fastest,C30,A,89114,White One,15,0.12,"1,020.00 ",132.60 
+20,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/05/22,220020,01/14/22,Cheapest,A10,C,89112,Blue One,60,0.05,"8,493.00 ","1,698.60 "
+21,Domestic,101,Northeast,USA,NY,New York,1006,Barron,01/06/22,220021,01/15/22,Cheapest,C30,A,89114,White One,1,0.00,29.00 ,7.25 
+22,International,1111,Europe,Germany,Frankfurt,Frankfurt,2007,Burgher,01/06/22,220022,01/15/22,Fastest,A10,D,89112,Blue One,9,0.00,282.00 ,70.50 
+23,Domestic,102,Central,USA,IL,Chicago,1007,Maizefield,01/07/22,220023,01/16/22,Fastest,A10,C,89112,Blue One,15,0.05,"2,455.00 ",491.00 
+24,International,1112,AsiaPac,Singapore,Singapore,Singapore,2008,Lyons,01/07/22,220024,01/16/22,Cheapest,B20,C,89113,Red One,24,0.05,152.00 ,30.40 
+25,Domestic,201,Southeast,USA,GA,Atlanta,1008,Peachtree,01/08/22,220025,01/17/22,Fastest,B20,D,89113,Red One,10,0.12,745.00 ,96.85 
+26,International,1113,Mideast,Israel,Tel Aviv,Tel Aviv,2009,Fountain,01/08/22,220026,01/17/22,Cheapest,C30,A,89114,White One,1,0.00,96.00 ,24.00 
+27,Domestic,203,Southwest,USA,TX,Dallas,1009,Festus,01/09/22,220027,01/18/22,Cheapest,C30,A,89114,White One,18,0.00,"2,380.00 ",595.00 
+28,International,1114,Americas,Brasil,Rio de Janiero,Rio de Janiero,2010,Carnival,01/09/22,220028,01/18/22,Cheapest,A10,C,89112,Blue One,15,0.05,335.00 ,67.00 
+29,Domestic,301,West,USA,CA,San Francisco,1010,Wigwam,01/10/22,220029,01/19/22,Cheapest,A10,D,89112,Blue One,12,0.05,"1,388.00 ",277.60 
+30,International,1115,Africa,Nigeria,Lagos,Lago,2011,Greenstate,01/10/22,220030,01/19/22,Fastest,B20,D,89113,Red One,10,0.12,281.00 ,36.53 
+31,Domestic,101,Northeast,USA,NY,New York,1011,Barron,01/11/22,220031,01/20/22,Cheapest,B20,C,89113,Red One,27,0.00,"2,260.00 ",565.00 
+32,International,1101,Europe,UK,London,London,2001,Biscuit,01/11/22,220032,01/20/22,Cheapest,C30,A,89114,White One,18,0.00,"1,931.00 ",482.75 
+33,Domestic,102,Central,USA,IL,Chicago,1012,Maizefield,01/12/22,220033,01/21/22,Fastest,C30,A,89114,White One,4,0.05,399.00 ,79.80 
+34,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/12/22,220034,01/21/22,Fastest,A10,D,89112,Blue One,12,0.05,"1,815.00 ",363.00 
+35,Domestic,201,Southeast,USA,GA,Atlanta,1013,Peachtree,01/13/22,220035,01/22/22,Cheapest,A10,C,89112,Blue One,24,0.12,"1,678.00 ",218.14 
+36,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/13/22,220036,01/22/22,Fastest,B20,C,89113,Red One,27,0.00,"3,059.00 ",764.75 
+37,Domestic,203,Southwest,USA,TX,Dallas,1014,Festus,01/14/22,220037,01/23/22,Fastest,B20,D,89113,Red One,14,0.00,"1,253.00 ",313.25 
+38,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/14/22,220038,01/23/22,Cheapest,C30,A,89114,White One,4,0.05,178.00 ,35.60 
+39,Domestic,301,West,USA,CA,San Francisco,1015,Wigwam,01/15/22,220039,01/24/22,Fastest,C30,A,89114,White One,30,0.05,"2,472.00 ",494.40 
+40,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/15/22,220040,01/24/22,Cheapest,A10,C,89112,Blue One,24,0.12,853.00 ,110.89 
+41,Domestic,101,Northeast,USA,NY,New York,1016,Barron,01/16/22,220041,01/25/22,Cheapest,A10,D,89112,Blue One,18,0.00,"1,042.00 ",260.50 
+42,International,1101,Europe,UK,London,London,2001,Biscuit,01/16/22,220042,01/25/22,Cheapest,B20,D,89113,Red One,14,0.00,74.00 ,18.50 
+43,Domestic,102,Central,USA,IL,Chicago,1017,Maizefield,01/17/22,220043,01/26/22,Cheapest,B20,C,89113,Red One,48,0.07,"4,984.00 ",897.12 
+44,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/17/22,220044,01/26/22,Fastest,C30,A,89114,White One,30,0.05,"1,303.00 ",260.60 
+45,Domestic,201,Southeast,USA,GA,Atlanta,1018,Peachtree,01/18/22,220045,01/27/22,Cheapest,C30,A,89114,White One,2,0.05,142.00 ,28.40 
+46,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/18/22,220046,01/27/22,Cheapest,A10,D,89112,Blue One,18,0.00,396.00 ,99.00 
+47,Domestic,203,Southwest,USA,TX,Dallas,1019,Festus,01/19/22,220047,01/28/22,Fastest,A10,C,89112,Blue One,30,0.12,"3,171.00 ",412.23 
+48,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/19/22,220048,01/28/22,Fastest,B20,C,89113,Red One,48,0.07,"6,046.00 ","1,088.28 "
+49,Domestic,301,West,USA,CA,San Francisco,1020,Wigwam,01/20/22,220049,01/29/22,Cheapest,B20,D,89113,Red One,20,0.00,525.00 ,131.25 
+50,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/20/22,220050,01/29/22,Fastest,C30,A,89114,White One,2,0.05,236.00 ,47.20 
+51,Domestic,101,Northeast,USA,NY,New York,1021,Barron,01/21/22,220051,01/30/22,Fastest,C30,A,89114,White One,36,0.05,"1,553.00 ",310.60 
+52,International,1101,Europe,UK,London,London,2001,Biscuit,01/21/22,220052,01/30/22,Cheapest,A10,C,89112,Blue One,30,0.12,"2,488.00 ",323.44 
+53,Domestic,102,Central,USA,IL,Chicago,1022,Maizefield,01/22/22,220053,01/31/22,Fastest,A10,D,89112,Blue One,24,0.07,"3,533.00 ",635.94 
+54,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/22/22,220054,01/31/22,Cheapest,B20,D,89113,Red One,20,0.00,543.00 ,135.75 
+55,Domestic,201,Southeast,USA,GA,Atlanta,1023,Peachtree,01/23/22,220055,02/01/22,Cheapest,B20,C,89113,Red One,54,0.05,"6,200.00 ","1,240.00 "
+56,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/23/22,220056,02/01/22,Cheapest,C30,A,89114,White One,36,0.05,"3,813.00 ",762.60 
+57,Domestic,203,Southwest,USA,TX,Dallas,1024,Festus,01/24/22,220057,02/02/22,Cheapest,C30,A,89114,White One,8,0.12,652.00 ,84.76 
+58,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/24/22,220058,02/02/22,Fastest,A10,D,89112,Blue One,24,0.07,"2,924.00 ",526.32 
+59,Domestic,301,West,USA,CA,San Francisco,1025,Wigwam,01/25/22,220059,02/03/22,Cheapest,A10,D,89112,Blue One,48,0.00,"2,923.00 ",730.75 
+60,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/25/22,220060,02/03/22,Cheapest,B20,C,89113,Red One,54,0.05,"5,390.00 ","1,078.00 "
+61,Domestic,101,Northeast,USA,NY,New York,1026,Barron,01/26/22,220061,02/04/22,Fastest,B20,C,89113,Red One,28,0.05,299.00 ,59.80 
+62,International,1101,Europe,UK,London,London,2001,Biscuit,01/26/22,220062,02/04/22,Fastest,C30,A,89114,White One,8,0.12,312.00 ,40.56 
+63,Domestic,102,Central,USA,IL,Chicago,1027,Maizefield,01/27/22,220063,02/05/22,Cheapest,C30,A,89114,White One,60,0.07,"1,677.00 ",301.86 
+64,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,01/27/22,220064,02/05/22,Fastest,A10,D,89112,Blue One,48,0.00,"2,902.00 ",725.50 
+65,Domestic,201,Southeast,USA,GA,Atlanta,1028,Peachtree,01/28/22,220065,02/06/22,Fastest,A10,C,89112,Blue One,36,0.05,"6,152.00 ","1,230.40 "
+66,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,01/28/22,220066,02/06/22,Cheapest,B20,C,89113,Red One,28,0.05,"3,073.00 ",614.60 
+67,Domestic,203,Southwest,USA,TX,Dallas,1029,Festus,01/29/22,220067,02/07/22,Fastest,B20,D,89113,Red One,96,0.12,"10,137.00 ","1,317.81 "
+68,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,01/29/22,220068,02/07/22,Cheapest,C30,A,89114,White One,60,0.07,"8,808.00 ","1,585.44 "
+69,Domestic,301,West,USA,CA,San Francisco,1030,Wigwam,01/30/22,220069,02/08/22,Cheapest,C30,A,89114,White One,4,0.00,328.00 ,82.00 
+70,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,01/30/22,220070,02/08/22,Cheapest,A10,C,89112,Blue One,36,0.05,"5,080.00 ","1,016.00 "
+71,Domestic,401,Northeast,USA,MA,Boston,1096,Teapart,01/31/22,220071,02/09/22,Cheapest,A10,C,89112,Blue One,60,0.05,"3,734.00 ",746.80 
+72,International,1111,Europe,Germany,Frankfurt,Frankfurt,2007,Burgher,01/31/22,220072,02/09/22,Fastest,B20,D,89113,Red One,96,0.12,"7,146.00 ",928.98 
+73,Domestic,501,Central,USA,IN,Indianapolis,1097,Saltrack,02/01/22,220073,02/10/22,Cheapest,A10,C,89112,Blue One,12,0.07,57.00 ,10.26 
+74,International,1112,AsiaPac,Singapore,Singapore,Singapore,2008,Lyons,02/01/22,220074,02/10/22,Cheapest,C30,A,89114,White One,4,0.00,274.00 ,68.50 
+75,Domestic,602,Southeast,USA,FL,Miami,1098,Fontainebleu,02/02/22,220075,02/11/22,Fastest,B20,D,89113,Red One,7,0.05,104.00 ,20.80 
+76,International,1113,Mideast,Israel,Tel Aviv,Tel Aviv,2009,Fountain,02/02/22,220076,02/11/22,Fastest,A10,C,89112,Blue One,60,0.05,"6,473.00 ","1,294.60 "
+77,Domestic,701,Southwest,USA,AZ,Phoenix,1099,Solar,02/03/22,220077,02/12/22,Cheapest,C30,A,89114,White One,15,0.12,250.00 ,32.50 
+78,International,1114,Americas,Brasil,Rio de Janiero,Rio de Janiero,2010,Carnival,02/03/22,220078,02/12/22,Fastest,A10,C,89112,Blue One,12,0.07,"1,818.00 ",327.24 
+79,Domestic,803,West,USA,WA,Seattle,1100,Raindrop,02/04/22,220079,02/13/22,Fastest,A10,D,89112,Blue One,9,0.00,345.00 ,86.25 
+80,International,1115,Africa,Nigeria,Lagos,Lago,2011,Greenstate,02/04/22,220080,02/13/22,Cheapest,B20,D,89113,Red One,7,0.05,"1,143.00 ",228.60 
+81,Domestic,101,Northeast,USA,NY,New York,1036,Barron,02/05/22,220081,02/14/22,Fastest,B20,C,89113,Red One,24,0.05,27.00 ,5.40 
+82,International,1101,Europe,UK,London,London,2001,Biscuit,02/05/22,220082,02/14/22,Cheapest,C30,A,89114,White One,15,0.12,"2,195.00 ",285.35 
+83,Domestic,102,Central,USA,IL,Chicago,1037,Maizefield,02/06/22,220083,02/15/22,Cheapest,C30,A,89114,White One,1,0.00,101.00 ,25.25 
+84,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,02/06/22,220084,02/15/22,Cheapest,A10,D,89112,Blue One,9,0.00,694.00 ,173.50 
+85,Domestic,201,Southeast,USA,GA,Atlanta,1038,Peachtree,02/07/22,220085,02/16/22,Cheapest,A10,C,89112,Blue One,15,0.05,454.00 ,90.80 
+86,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,02/07/22,220086,02/16/22,Fastest,B20,C,89113,Red One,24,0.05,"1,942.00 ",388.40 
+87,Domestic,203,Southwest,USA,TX,Dallas,1039,Festus,02/08/22,220087,02/17/22,Cheapest,B20,D,89113,Red One,10,0.12,654.00 ,85.02 
+88,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,02/08/22,220088,02/17/22,Cheapest,C30,A,89114,White One,1,0.00,115.00 ,28.75 
+89,Domestic,301,West,USA,CA,San Francisco,1040,Wigwam,02/09/22,220089,02/18/22,Fastest,C30,A,89114,White One,18,0.00,293.00 ,73.25 
+90,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,02/09/22,220090,02/18/22,Fastest,A10,C,89112,Blue One,15,0.05,575.00 ,115.00 
+91,Domestic,101,Northeast,USA,NY,New York,1041,Barron,02/10/22,220091,02/19/22,Cheapest,A10,D,89112,Blue One,12,0.05,"1,864.00 ",372.80 
+92,International,1101,Europe,UK,London,London,2001,Biscuit,02/10/22,220092,02/19/22,Fastest,B20,D,89113,Red One,10,0.12,"1,150.00 ",149.50 
+93,Domestic,102,Central,USA,IL,Chicago,1042,Maizefield,02/11/22,220093,02/20/22,Fastest,B20,C,89113,Red One,27,0.00,"4,485.00 ","1,121.25 "
+94,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,02/11/22,220094,02/20/22,Cheapest,C30,A,89114,White One,18,0.00,"1,122.00 ",280.50 
+95,Domestic,201,Southeast,USA,GA,Atlanta,1043,Peachtree,02/12/22,220095,02/21/22,Fastest,C30,A,89114,White One,4,0.05,527.00 ,105.40 
+96,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,02/12/22,220096,02/21/22,Cheapest,A10,D,89112,Blue One,12,0.05,"1,309.00 ",261.80 
+97,Domestic,203,Southwest,USA,TX,Dallas,1044,Festus,02/13/22,220097,02/22/22,Cheapest,A10,C,89112,Blue One,24,0.12,"1,993.00 ",259.09 
+98,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,02/13/22,220098,02/22/22,Cheapest,B20,C,89113,Red One,27,0.00,"1,885.00 ",471.25 
+99,Domestic,301,West,USA,CA,San Francisco,1045,Wigwam,02/14/22,220099,02/23/22,Cheapest,B20,D,89113,Red One,14,0.00,100.00 ,25.00 
+100,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,02/14/22,220100,02/23/22,Fastest,C30,A,89114,White One,4,0.05,459.00 ,91.80 
+101,Domestic,101,Northeast,USA,NY,New York,1046,Barron,02/15/22,220101,02/24/22,Cheapest,C30,A,89114,White One,30,0.05,"3,947.00 ",789.40 
+102,International,1101,Europe,UK,London,London,2001,Biscuit,02/15/22,220102,02/24/22,Cheapest,A10,C,89112,Blue One,24,0.12,"1,550.00 ",201.50 
+103,Domestic,102,Central,USA,IL,Chicago,1047,Maizefield,02/16/22,220103,02/25/22,Fastest,A10,D,89112,Blue One,18,0.00,193.00 ,48.25 
+104,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,02/16/22,220104,02/25/22,Fastest,B20,D,89113,Red One,14,0.00,322.00 ,80.50 
+105,Domestic,201,Southeast,USA,GA,Atlanta,1048,Peachtree,02/17/22,220105,02/26/22,Cheapest,B20,C,89113,Red One,48,0.07,"4,534.00 ",816.12 
+106,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,02/17/22,220106,02/26/22,Fastest,C30,A,89114,White One,30,0.05,"1,798.00 ",359.60 
+107,Domestic,203,Southwest,USA,TX,Dallas,1049,Festus,02/18/22,220107,02/27/22,Fastest,C30,A,89114,White One,2,0.05,289.00 ,57.80 
+108,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,02/18/22,220108,02/27/22,Cheapest,A10,D,89112,Blue One,18,0.00,"1,469.00 ",367.25 
+109,Domestic,301,West,USA,CA,San Francisco,1050,Wigwam,02/19/22,220109,02/28/22,Fastest,A10,C,89112,Blue One,30,0.12,"1,958.00 ",254.54 
+110,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,02/19/22,220110,02/28/22,Cheapest,B20,C,89113,Red One,48,0.07,"3,746.00 ",674.28 
+111,Domestic,401,Northeast,USA,MA,Boston,1096,Teapart,02/20/22,220111,03/01/22,Cheapest,B20,D,89113,Red One,20,0.00,491.00 ,122.75 
+112,International,1111,Europe,Germany,Frankfurt,Frankfurt,2007,Burgher,02/20/22,220112,03/01/22,Cheapest,C30,A,89114,White One,2,0.05,243.00 ,48.60 
+113,Domestic,501,Central,USA,IN,Indianapolis,1097,Saltrack,02/21/22,220113,03/02/22,Cheapest,C30,A,89114,White One,36,0.05,"1,007.00 ",201.40 
+114,International,1112,AsiaPac,Singapore,Singapore,Singapore,2008,Lyons,02/21/22,220114,03/02/22,Fastest,A10,C,89112,Blue One,30,0.12,"1,301.00 ",169.13 
+115,Domestic,602,Southeast,USA,FL,Miami,1098,Fontainebleu,02/22/22,220115,03/03/22,Cheapest,A10,D,89112,Blue One,24,0.07,"2,958.00 ",532.44 
+116,International,1113,Mideast,Israel,Tel Aviv,Tel Aviv,2009,Fountain,02/22/22,220116,03/03/22,Cheapest,B20,D,89113,Red One,20,0.00,198.00 ,49.50 
+117,Domestic,701,Southwest,USA,AZ,Phoenix,1099,Solar,02/23/22,220117,03/04/22,Fastest,B20,C,89113,Red One,54,0.05,"1,357.00 ",271.40 
+118,International,1114,Americas,Brasil,Rio de Janiero,Rio de Janiero,2010,Carnival,02/23/22,220118,03/04/22,Fastest,C30,A,89114,White One,36,0.05,373.00 ,74.60 
+119,Domestic,803,West,USA,WA,Seattle,1100,Raindrop,02/24/22,220119,03/05/22,Cheapest,C30,A,89114,White One,8,0.12,444.00 ,57.72 
+120,International,1115,Africa,Nigeria,Lagos,Lago,2011,Greenstate,02/24/22,220120,03/05/22,Fastest,A10,D,89112,Blue One,24,0.07,"1,005.00 ",180.90 
+121,Domestic,101,Northeast,USA,NY,New York,1056,Barron,02/25/22,220121,03/06/22,Fastest,A10,D,89112,Blue One,48,0.00,"4,621.00 ","1,155.25 "
+122,International,1101,Europe,UK,London,London,2001,Biscuit,02/25/22,220122,03/06/22,Cheapest,B20,C,89113,Red One,54,0.05,"4,618.00 ",923.60 
+123,Domestic,102,Central,USA,IL,Chicago,1057,Maizefield,02/26/22,220123,03/07/22,Fastest,B20,C,89113,Red One,28,0.05,"3,005.00 ",601.00 
+124,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,02/26/22,220124,03/07/22,Cheapest,C30,A,89114,White One,8,0.12,"1,055.00 ",137.15 
+125,Domestic,201,Southeast,USA,GA,Atlanta,1058,Peachtree,02/27/22,220125,03/08/22,Cheapest,C30,A,89114,White One,60,0.07,"9,525.00 ","1,714.50 "
+126,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,02/27/22,220126,03/08/22,Cheapest,A10,D,89112,Blue One,48,0.00,"6,498.00 ","1,624.50 "
+127,Domestic,203,Southwest,USA,TX,Dallas,1059,Festus,02/28/22,220127,03/09/22,Cheapest,A10,C,89112,Blue One,36,0.05,657.00 ,131.40 
+128,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,02/28/22,220128,03/09/22,Fastest,B20,C,89113,Red One,28,0.05,594.00 ,118.80 
+129,Domestic,301,West,USA,CA,San Francisco,1060,Wigwam,03/01/22,220129,03/10/22,Cheapest,B20,D,89113,Red One,96,0.12,"6,106.00 ",793.78 
+130,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/01/22,220130,03/10/22,Cheapest,C30,A,89114,White One,60,0.07,534.00 ,96.12 
+131,Domestic,101,Northeast,USA,NY,New York,1061,Barron,03/02/22,220131,03/11/22,Fastest,C30,A,89114,White One,4,0.00,262.00 ,65.50 
+132,International,1101,Europe,UK,London,London,2001,Biscuit,03/02/22,220132,03/11/22,Fastest,A10,C,89112,Blue One,36,0.05,"1,344.00 ",268.80 
+133,Domestic,102,Central,USA,IL,Chicago,1062,Maizefield,03/03/22,220133,03/12/22,Cheapest,A10,C,89112,Blue One,60,0.05,"5,863.00 ","1,172.60 "
+134,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,03/03/22,220134,03/12/22,Fastest,B20,D,89113,Red One,96,0.12,"2,791.00 ",362.83 
+135,Domestic,201,Southeast,USA,GA,Atlanta,1063,Peachtree,03/04/22,220135,03/13/22,Fastest,A10,C,89112,Blue One,12,0.07,"1,215.00 ",218.70 
+136,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,03/04/22,220136,03/13/22,Cheapest,C30,A,89114,White One,4,0.00,268.00 ,67.00 
+137,Domestic,203,Southwest,USA,TX,Dallas,1064,Festus,03/05/22,220137,03/14/22,Fastest,B20,D,89113,Red One,7,0.05,41.00 ,8.20 
+138,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,03/05/22,220138,03/14/22,Cheapest,A10,C,89112,Blue One,60,0.05,"4,808.00 ",961.60 
+139,Domestic,401,Northeast,USA,MA,Boston,1096,Teapart,03/06/22,220139,03/15/22,Cheapest,C30,A,89114,White One,15,0.12,790.00 ,102.70 
+140,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/06/22,220140,03/15/22,Cheapest,A10,C,89112,Blue One,12,0.07,"1,987.00 ",357.66 
+141,Domestic,401,Northeast,USA,MA,Boston,1096,Teapart,03/07/22,220141,03/16/22,Fastest,C30,A,89114,White One,15,0.12,"1,074.00 ",139.62 
+142,Domestic,501,Central,USA,IN,Indianapolis,1097,Saltrack,03/07/22,220142,03/16/22,Cheapest,A10,D,89112,Blue One,9,0.00,"1,263.00 ",315.75 
+143,International,1101,Europe,UK,London,London,2001,Biscuit,03/07/22,220143,03/16/22,Fastest,B20,D,89113,Red One,7,0.05,209.00 ,41.80 
+144,International,1111,Europe,Germany,Frankfurt,Frankfurt,2007,Burgher,03/07/22,220144,03/16/22,Fastest,A10,C,89112,Blue One,12,0.07,251.00 ,45.18 
+145,Domestic,501,Central,USA,IN,Indianapolis,1097,Saltrack,03/08/22,220145,03/17/22,Cheapest,A10,D,89112,Blue One,9,0.00,"1,450.00 ",362.50 
+146,Domestic,602,Southeast,USA,FL,Miami,1098,Fontainebleu,03/08/22,220146,03/17/22,Cheapest,B20,C,89113,Red One,24,0.05,"1,309.00 ",261.80 
+147,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,03/08/22,220147,03/17/22,Cheapest,C30,A,89114,White One,15,0.12,"1,752.00 ",227.76 
+148,International,1112,AsiaPac,Singapore,Singapore,Singapore,2008,Lyons,03/08/22,220148,03/17/22,Fastest,B20,D,89113,Red One,7,0.05,523.00 ,104.60 
+149,Domestic,602,Southeast,USA,FL,Miami,1098,Fontainebleu,03/09/22,220149,03/18/22,Fastest,B20,C,89113,Red One,24,0.05,"2,683.00 ",536.60 
+150,Domestic,701,Southwest,USA,AZ,Phoenix,1099,Solar,03/09/22,220150,03/18/22,Fastest,C30,A,89114,White One,1,0.00,51.00 ,12.75 
+151,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,03/09/22,220151,03/18/22,Fastest,A10,D,89112,Blue One,9,0.00,110.00 ,27.50 
+152,International,1113,Mideast,Israel,Tel Aviv,Tel Aviv,2009,Fountain,03/09/22,220152,03/18/22,Cheapest,C30,A,89114,White One,8,0.12,321.00 ,41.73 
+153,Domestic,701,Southwest,USA,AZ,Phoenix,1099,Solar,03/10/22,220153,03/19/22,Fastest,C30,A,89114,White One,1,0.00,122.00 ,30.50 
+154,Domestic,803,West,USA,WA,Seattle,1100,Raindrop,03/10/22,220154,03/19/22,Cheapest,A10,C,89112,Blue One,15,0.05,905.00 ,181.00 
+155,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,03/10/22,220155,03/19/22,Fastest,B20,C,89113,Red One,24,0.05,946.00 ,189.20 
+156,International,1114,Americas,Brasil,Rio de Janiero,Rio de Janiero,2010,Carnival,03/10/22,220156,03/19/22,Cheapest,A10,D,89112,Blue One,48,0.00,"7,284.00 ","1,821.00 "
+157,Domestic,301,West,USA,CA,Seattle,1100,Raindrop,03/11/22,220157,03/20/22,Fastest,B20,D,89113,Red One,10,0.12,916.00 ,119.08 
+158,Domestic,803,West,USA,WA,Seattle,1100,Raindrop,03/11/22,220158,03/20/22,Cheapest,A10,C,89112,Blue One,15,0.05,60.00 ,12.00 
+159,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/11/22,220159,03/20/22,Cheapest,C30,A,89114,White One,1,0.00,92.00 ,23.00 
+160,International,1115,Africa,Nigeria,Lagos,Lago,2011,Greenstate,03/11/22,220160,03/20/22,Cheapest,B20,C,89113,Red One,28,0.05,"4,249.00 ",849.80 
+161,Domestic,101,Northeast,USA,NY,New York,1071,Barron,03/12/22,220161,03/21/22,Fastest,C30,A,89114,White One,18,0.00,728.00 ,182.00 
+162,International,1111,Europe,Germany,Frankfurt,Frankfurt,2007,Burgher,03/12/22,220162,03/21/22,Cheapest,A10,C,89112,Blue One,15,0.05,"1,223.00 ",244.60 
+163,Domestic,102,Central,USA,IL,Chicago,1072,Maizefield,03/13/22,220163,03/22/22,Cheapest,A10,D,89112,Blue One,12,0.05,"1,492.00 ",298.40 
+164,International,1112,AsiaPac,Singapore,Singapore,Singapore,2008,Lyons,03/13/22,220164,03/22/22,Cheapest,B20,D,89113,Red One,10,0.12,912.00 ,118.56 
+165,Domestic,201,Southeast,USA,GA,Atlanta,1073,Peachtree,03/14/22,220165,03/23/22,Cheapest,B20,C,89113,Red One,27,0.00,"2,864.00 ",716.00 
+166,International,1113,Mideast,Israel,Tel Aviv,Tel Aviv,2009,Fountain,03/14/22,220166,03/23/22,Fastest,C30,A,89114,White One,18,0.00,"3,094.00 ",773.50 
+167,Domestic,203,Southwest,USA,TX,Dallas,1074,Festus,03/15/22,220167,03/24/22,Cheapest,C30,A,89114,White One,4,0.05,246.00 ,49.20 
+168,International,1114,Americas,Brasil,Rio de Janiero,Rio de Janiero,2010,Carnival,03/15/22,220168,03/24/22,Cheapest,A10,D,89112,Blue One,12,0.05,799.00 ,159.80 
+169,Domestic,301,West,USA,CA,San Francisco,1075,Wigwam,03/16/22,220169,03/25/22,Fastest,A10,C,89112,Blue One,24,0.12,"2,797.00 ",363.61 
+170,International,1115,Africa,Nigeria,Lagos,Lago,2011,Greenstate,03/16/22,220170,03/25/22,Fastest,B20,C,89113,Red One,27,0.00,935.00 ,233.75 
+171,Domestic,101,Northeast,USA,NY,New York,1076,Barron,03/17/22,220171,03/26/22,Cheapest,B20,D,89113,Red One,14,0.00,"1,104.00 ",276.00 
+172,International,1101,Europe,UK,London,London,2001,Biscuit,03/17/22,220172,03/26/22,Fastest,C30,A,89114,White One,4,0.05,478.00 ,95.60 
+173,Domestic,102,Central,USA,IL,Chicago,1077,Maizefield,03/18/22,220173,03/27/22,Fastest,C30,A,89114,White One,30,0.05,"3,830.00 ",766.00 
+174,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,03/18/22,220174,03/27/22,Cheapest,A10,C,89112,Blue One,24,0.12,657.00 ,85.41 
+175,Domestic,201,Southeast,USA,GA,Atlanta,1078,Peachtree,03/19/22,220175,03/28/22,Fastest,A10,D,89112,Blue One,18,0.00,"2,493.00 ",623.25 
+176,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,03/19/22,220176,03/28/22,Cheapest,B20,D,89113,Red One,14,0.00,480.00 ,120.00 
+177,Domestic,203,Southwest,USA,TX,Dallas,1079,Festus,03/20/22,220177,03/29/22,Cheapest,B20,C,89113,Red One,48,0.07,"1,962.00 ",353.16 
+178,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,03/20/22,220178,03/29/22,Cheapest,C30,A,89114,White One,30,0.05,605.00 ,121.00 
+179,Domestic,301,West,USA,CA,San Francisco,1080,Wigwam,03/21/22,220179,03/30/22,Cheapest,C30,A,89114,White One,2,0.05,26.00 ,5.20 
+180,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/21/22,220180,03/30/22,Fastest,A10,D,89112,Blue One,18,0.00,"3,153.00 ",788.25 
+181,Domestic,101,Northeast,USA,NY,Boston,1096,Teapart,03/22/22,220181,03/31/22,Cheapest,A10,C,89112,Blue One,30,0.12,"3,950.00 ",513.50 
+182,International,1101,Europe,UK,London,London,2001,Biscuit,03/22/22,220182,03/31/22,Cheapest,B20,C,89113,Red One,48,0.07,"1,418.00 ",255.24 
+183,Domestic,102,Central,USA,IL,Indianapolis,1097,Saltrack,03/23/22,220183,,Fastest,B20,D,89113,Red One,20,0.00,"1,735.00 ",433.75 
+184,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,03/23/22,220184,,Fastest,C30,A,89114,White One,2,0.05,187.00 ,37.40 
+185,Domestic,201,Southeast,USA,GA,Miami,1098,Fontainebleu,03/24/22,220185,,Cheapest,C30,A,89114,White One,36,0.05,"3,567.00 ",713.40 
+186,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,03/24/22,220186,,Fastest,A10,C,89112,Blue One,30,0.12,"4,134.00 ",537.42 
+187,Domestic,203,Southwest,USA,TX,Phoenix,1099,Solar,03/25/22,220187,,Fastest,A10,D,89112,Blue One,24,0.07,"3,231.00 ",581.58 
+188,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,03/25/22,220188,,Cheapest,B20,D,89113,Red One,20,0.00,862.00 ,215.50 
+189,Domestic,301,West,USA,CA,Seattle,1100,Raindrop,03/26/22,220189,,Fastest,B20,C,89113,Red One,54,0.05,"7,372.00 ","1,474.40 "
+190,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/26/22,220190,,Cheapest,C30,A,89114,White One,36,0.05,"2,480.00 ",496.00 
+191,Domestic,101,Northeast,USA,NY,New York,1086,Barron,03/27/22,220191,,Cheapest,C30,A,89114,White One,8,0.12,"1,077.00 ",140.01 
+192,International,1101,Europe,UK,London,London,2001,Biscuit,03/27/22,220192,,Cheapest,A10,D,89112,Blue One,24,0.07,"1,126.00 ",202.68 
+193,Domestic,102,Central,USA,IL,Chicago,1087,Maizefield,03/28/22,220193,,Cheapest,A10,D,89112,Blue One,48,0.00,"5,179.00 ","1,294.75 "
+194,International,1102,AsiaPac,Japan,Tokyo,Tokyo,2002,Rising,03/28/22,220194,,Fastest,B20,C,89113,Red One,54,0.05,"3,792.00 ",758.40 
+195,Domestic,201,Southeast,USA,GA,Atlanta,1088,Peachtree,03/29/22,220195,,Cheapest,B20,C,89113,Red One,28,0.05,474.00 ,94.80 
+196,International,1103,Mideast,Saudi Arabia,Ryadh,Ryadh,2003,Towers,03/29/22,220196,,Cheapest,C30,A,89114,White One,8,0.12,474.00 ,61.62 
+197,Domestic,203,Southwest,USA,TX,Dallas,1089,Festus,03/30/22,220197,,Fastest,C30,A,89114,White One,60,0.07,"1,141.00 ",205.38 
+198,International,1104,Americas,Costa Rica,San Jose,San Jose,2004,Pura Vida,03/30/22,220198,,Fastest,A10,D,89112,Blue One,48,0.00,"1,624.00 ",406.00 
+199,Domestic,301,West,USA,CA,San Francisco,1090,Wigwam,03/31/22,220199,,Cheapest,A10,C,89112,Blue One,36,0.05,"1,067.00 ",213.40 
+200,International,1105,Africa,South Africa,Johannesburg,Johannesburg,2005,Musica,03/31/22,220200,,Fastest,B20,C,89113,Red One,28,0.05,"3,950.00 ",790.00 
