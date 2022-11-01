@@ -1,0 +1,24 @@
+The Battery, NY [8518750]
+×
+Today's Tides
+Time	Tide	Height
+2:33 AM	high	4.19 ft
+8:50 AM	low	0.82 ft
+2:53 PM	high	5.00 ft
+9:44 PM	low	0.33 ft
+Recent Data as of 11/1/2022 7:18 PM Local Time
+
+Water Level: 2.07 ft Above MLLW
+
+Next Tide at 9:44 PM: low 0.33 ft above MLLW
+
+
+Water Temp: 60.4 ° F
+
+Air Temp: 63.5 ° F
+
+Barometric Pressure: 1017.5 mb
+
+from: https://tidesandcurrents.noaa.gov/map/index.html?id=8518750
+as of 19:30 on 01-Nov-2022
+
