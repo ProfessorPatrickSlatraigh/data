@@ -1,0 +1,7 @@
+month,year,expected_demand,production_days
+Jan,2023,900,22
+Feb,2023,700,18
+Mar,2023,800,21
+Apr,2023,"1,200",21
+May,2023,"1,500",22
+Jun,2023,"1,100",20
