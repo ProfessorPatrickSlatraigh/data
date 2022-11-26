@@ -1,0 +1,12 @@
+{
+  "Hours": [
+         	  {
+  "category": "Open",
+  "name": "5:00 Saturday"
+         	  },
+         	  {
+  "category": "Close",
+  "name": "13:30 Saturday"
+         	  }
+         	  ]
+         	  }
