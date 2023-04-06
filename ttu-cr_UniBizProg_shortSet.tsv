@@ -11,7 +11,6 @@ UAntilles_BBA	Université des Antilles	MQ	Martinique	BBA	Bachelor of Business Ad
 SALCC_ADBS	Sir Arthur Lewis Community College	LC	St. Lucia	Associate Degree	Associate Degree in Business Studies	Business Studies	https://www.salcc.edu.lc/programmes/business-studies.html	English	in-person
 SVGCC_ADBS	St. Vincent and the Grenadines Community College	VC	St. Vincent and the Grenadines	Associate Degree	Associate Degree in Business Studies	Business Studies	https://www.svgcc.vc/index.php/academic-division/programmes	English	in-person
 SGU_BSBA	St. George's University	GD	Grenada	BSBA	Bachelor of Science in Business Administration	Business Administration	https://www.sgu.edu/academic-programs/undergraduate/bachelor-of-science-in-business-administration/	English	in-person
-unique_abbreviation	university_name	country_iso	country_name	degree_type	degree_name	program_name	program_url	program_language	program_modes
 UVI_BABA	University of the Virgin Islands	VI	U.S. Virgin Islands	BABA	Bachelor of Arts in Business Administration	Business Administration	https://www.uvi.edu/academics/business/programs/bachelor-of-arts-in-business-administration.aspx	English	in-person
 UWI_Cave_Hill_BBA	University of the West Indies, Cave Hill Campus	BB	Barbados	BBA	Bachelor of Business Administration	Department of Management Studies	https://www.cavehill.uwi.edu/fss/departments/management-studies.aspx	English	in-person
 UWI_Mona_BBA	University of the West Indies, Mona Campus	JM	Jamaica	BBA	Bachelor of Business Administration	Department of Management Studies	https://www.mona.uwi.edu/msbm/undergraduate-programs	English	in-person
@@ -42,5 +41,3 @@ UP_BBA	Universidad del Pacífico	PE	Peru	BBA	Bachelor of Business Administration
 ESAN_BBA	ESAN University	PE	Peru	BBA	Bachelor of Business Administration	Business Administration	https://www.ue.edu.pe/carreras/administracion/	Spanish	in-person
 FGV_BBA	Fundação Getulio Vargas (FGV)	BR	Brazil	BBA	Bachelor of Business Administration	Business Administration	https://eaesp.fgv.br/ensino/graduacao/administracao-de-empresas	Portuguese	in-person
 USP_BBA	Universidade de São Paulo (USP)	BR	Brazil	BBA	Bachelor of Business Administration	Business Administration	https://www.fea.usp.br/administracao/graduacao	Portuguese	in-person
-
-
