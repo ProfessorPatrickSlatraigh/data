@@ -1,4 +1,4 @@
-unique_abbreviation	university_name	country_iso	country_name	degree_type	degree_name	program_name	program_url	program_language	program_modes
+unique_abbreviation	university_name	country_code	country_name	degree_type	degree_name	program_name	program_url	program_language	program_modes
 INCAE_CR	INCAE Business School	CR	Costa Rica	MBA	Master in Business Administration	Full-Time MBA	https://www.incae.edu/en/programs/full-time-mba/curriculum.html	English	in-person
 UCR_BBA	Universidad de Costa Rica	CR	Costa Rica	BBA	Bachelor of Business Administration	Administración de Empresas	https://www.ucr.ac.cr/actividades/2016/05/11/nueva-carrera-de-administracion-de-empresas-actualiza-perfil-de-egreso.html	Spanish	in-person
 UFM_BBA	Universidad Francisco Marroquín	GT	Guatemala	BBA	Bachelor of Business Administration	Administración de Empresas	https://ufm.edu/Administracion_de_Empresas	Spanish	in-person
