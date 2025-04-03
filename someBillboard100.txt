@@ -1,0 +1,36 @@
+year	rank	title	artist	weeksInTop100	RIIAcertification	Lyrics
+2015	1	Uptown Funk	Mark Ronson featuring Bruno Mars	N/A	N/A	https://genius.com/Mark-ronson-uptown-funk-lyrics
+2015	2	Thinking Out Loud	Ed Sheeran	N/A	N/A	https://genius.com/Ed-sheeran-thinking-out-loud-lyrics
+2015	3	See You Again	Wiz Khalifa featuring Charlie Puth	N/A	N/A	https://genius.com/Wiz-khalifa-see-you-again-lyrics
+2015	4	Trap Queen	Fetty Wap	N/A	N/A	https://genius.com/Fetty-wap-trap-queen-lyrics
+2015	5	Blank Space	Taylor Swift	N/A	N/A	https://genius.com/Taylor-swift-blank-space-lyrics
+2015	6	Watch Me	Silentó	N/A	N/A	https://genius.com/Silento-watch-me-lyrics
+2015	7	Earned It	The Weeknd	N/A	N/A	https://genius.com/The-weeknd-earned-it-lyrics
+2015	8	The Hills	The Weeknd	N/A	N/A	https://genius.com/The-weeknd-the-hills-lyrics
+2015	9	Cheerleader	OMI	N/A	N/A	https://genius.com/Omi-cheerleader-lyrics
+2015	10	Can't Feel My Face	The Weeknd	N/A	N/A	https://genius.com/The-weeknd-cant-feel-my-face-lyrics
+2016	1	Love Yourself	Justin Bieber	N/A	N/A	https://genius.com/Justin-bieber-love-yourself-lyrics
+2016	2	Sorry	Justin Bieber	N/A	N/A	https://genius.com/Justin-bieber-sorry-lyrics
+2016	3	One Dance	Drake featuring WizKid and Kyla	N/A	N/A	https://genius.com/Drake-one-dance-lyrics
+2016	4	Work	Rihanna featuring Drake	N/A	N/A	https://genius.com/Rihanna-work-lyrics
+2016	5	Stressed Out	Twenty One Pilots	N/A	N/A	https://genius.com/Twenty-one-pilots-stressed-out-lyrics
+2016	6	Panda	Desiigner	N/A	N/A	https://genius.com/Desiigner-panda-lyrics
+2016	7	Hello	Adele	N/A	N/A	https://genius.com/Adele-hello-lyrics
+2016	8	Don't Let Me Down	The Chainsmokers featuring Daya	N/A	N/A	https://genius.com/The-chainsmokers-dont-let-me-down-lyrics
+2016	9	Can't Stop the Feeling!	Justin Timberlake	N/A	N/A	https://genius.com/Justin-timberlake-cant-stop-the-feeling-lyrics
+2016	10	Closer	The Chainsmokers featuring Halsey	N/A	N/A	https://genius.com/The-chainsmokers-closer-lyrics
+2019	1	Old Town Road	Lil Nas X featuring Billy Ray Cyrus	N/A	N/A	https://genius.com/Lil-nas-x-old-town-road-lyrics
+2020	1	Blinding Lights	The Weeknd	N/A	N/A	https://genius.com/The-weeknd-blinding-lights-lyrics
+2021	1	Levitating	Dua Lipa	N/A	N/A	https://genius.com/Dua-lipa-levitating-lyrics
+2022	1	Heat Waves	Glass Animals	N/A	N/A	https://genius.com/Glass-animals-heat-waves-lyrics
+2023	1	Last Night	Morgan Wallen	N/A	N/A	https://genius.com/Morgan-wallen-last-night-lyrics
+2024	1	Lose Control	Teddy Swims	N/A	N/A	https://genius.com/Teddy-swims-lose-control-lyrics
+2024	2	A Bar Song (Tipsy)	Shaboozey	N/A	N/A	https://genius.com/Shaboozey-a-bar-song-tipsy-lyrics
+2024	3	Beautiful Things	Benson Boone	N/A	N/A	https://genius.com/Benson-boone-beautiful-things-lyrics
+2024	4	I Had Some Help	Post Malone featuring Morgan Wallen	N/A	N/A	https://genius.com/Post-malone-i-had-some-help-lyrics
+2024	5	Lovin on Me	Jack Harlow	N/A	N/A	https://genius.com/Jack-harlow-lovin-on-me-lyrics
+2024	6	Not Like Us	Kendrick Lamar	N/A	N/A	https://genius.com/Kendrick-lamar-not-like-us-lyrics
+2024	7	Espresso	Sabrina Carpenter	N/A	N/A	https://genius.com/Sabrina-carpenter-espresso-lyrics
+2024	8	Million Dollar Baby	Tommy Richman	N/A	N/A	https://genius.com/Tommy-richman-million-dollar-baby-lyrics
+2024	9	I Remember Everything	Zach Bryan featuring Kacey Musgraves	N/A	N/A	https://genius.com/Zach-bryan-i-remember-everything-lyrics
+2024	10	Too Sweet	Hozier	N/A	N/A	https://genius.com/Hozier-too-sweet-lyrics
