@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<person>
+  <full_name>Tove Refsnes</full_name>
+  <child_name>Hege</child_name>
+  <child_name>Stale</child_name>
+  <neighbor_name>YourFriend</neighbor_name> ### NOT IN THE SCHEMA ###
+  <child_name>Jim</child_name>
+  <child_name>Borge</child_name>
+</person>
