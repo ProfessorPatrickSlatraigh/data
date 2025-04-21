@@ -1,4 +1,4 @@
-Year	Rank	Song Title	Artist
+Year	Rank	Title	Artist
 2015	1	Uptown Funk	Mark Ronson featuring Bruno Mars
 2015	2	Thinking Out Loud	Ed Sheeran
 2015	3	See You Again	Wiz Khalifa featuring Charlie Puth
