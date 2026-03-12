@@ -1,0 +1,151 @@
+SKU,Date,Transaction_Type,Quantity,Notes
+AD-CLC-095,2026-12-01,Purchased,12,Staff discount applied
+NK-DNK-090,2026-12-01,Purchased,7,Online order fulfillment
+NK-AF1-120,2026-12-02,Purchased,7,Online order fulfillment
+VN-OSK-110,2026-12-02,Purchased,8,Shipment arrived with minor box damage
+NK-DNK-095,2026-12-02,Sold,3,Walk-in customer purchase
+NK-DNK-095,2026-12-03,Purchased,8,Gift purchase with receipt
+AD-CLC-110,2026-12-03,Sold,1,Rush order from supplier
+NK-AF1-120,2026-12-03,Sold,2,Gift purchase with receipt
+NK-AF1-100,2026-12-04,Sold,2,Checked against PO #4821
+NK-CTZ-100,2026-12-04,Sold,2,Return processed separately
+AD-CMP-110,2026-12-04,Purchased,6,Weekend sale transaction
+NK-CTZ-105,2026-12-05,Sold,1,Staff discount applied
+NK-AF1-095,2026-12-06,Purchased,7,Verified by manager on duty
+AD-SMB-090,2026-12-06,Sold,3,Rush order from supplier
+NK-AJ11-110,2026-12-08,Purchased,5,Customer exchange processed
+AD-CMP-120,2026-12-08,Sold,1,Customer exchange processed
+NK-CTZ-110,2026-12-09,Sold,3,Gift purchase with receipt
+VN-OSK-120,2026-12-09,Purchased,10,Shipment arrived with minor box damage
+NK-AJ11-110,2026-12-09,Sold,1,Special order item
+AD-CMP-120,2026-12-09,Sold,1,Inventory audit adjustment
+VN-OSK-090,2026-12-10,Sold,3,Gift purchase with receipt
+AD-CMP-100,2026-12-10,Sold,3,Shipped from warehouse
+AD-SMB-100,2026-12-11,Sold,2,Checked against PO #4821
+NK-DNK-100,2026-12-11,Sold,2,Walk-in customer purchase
+AD-CMP-105,2026-12-11,Sold,3,Holiday season restock
+NK-AF1-105,2026-12-12,Sold,2,Shipment arrived with minor box damage
+NK-CTZ-100,2026-12-12,Purchased,5,Shipped from warehouse
+AD-CLC-100,2026-12-13,Purchased,6,Staff discount applied
+VN-OSK-110,2026-12-14,Sold,3,Online order fulfillment
+NK-AJ11-120,2026-12-14,Sold,1,Awaiting customer pickup
+NK-AJ11-095,2026-12-14,Sold,2,Online order fulfillment
+NK-AJ11-120,2026-12-15,Sold,3,Awaiting customer pickup
+NK-CTZ-090,2026-12-15,Sold,1,Vendor delivery confirmed
+NK-AJ11-110,2026-12-15,Sold,3,Shipment arrived with minor box damage
+AD-SMB-115,2026-12-15,Sold,3,Loyalty member transaction
+NK-SB-110,2026-12-15,Sold,1,Walk-in customer purchase
+AD-SMB-095,2026-12-16,Sold,3,Loyalty member transaction
+AD-CMP-100,2026-12-16,Sold,3,Awaiting customer pickup
+VN-OSK-120,2026-12-16,Sold,1,Return processed separately
+AD-SMB-100,2026-12-16,Purchased,4,Return processed separately
+NK-DNK-090,2026-12-16,Sold,1,Weekend sale transaction
+NK-CTZ-100,2026-12-16,Purchased,4,Shipped from warehouse
+AD-SMB-110,2026-12-17,Sold,3,Vendor delivery confirmed
+AD-SMB-100,2026-12-18,Sold,1,Walk-in customer purchase
+NK-AF1-110,2026-12-18,Sold,3,Gift purchase with receipt
+VN-OSK-120,2026-12-19,Sold,2,Phone order placed earlier
+NK-AF1-110,2026-12-19,Sold,2,Awaiting customer pickup
+AD-CMP-100,2026-12-19,Purchased,9,Loyalty member transaction
+AD-SMB-090,2026-12-19,Purchased,9,Loyalty member transaction
+AD-CMP-105,2026-12-19,Sold,3,Phone order placed earlier
+NK-CTZ-095,2026-12-20,Purchased,7,Shipment arrived with minor box damage
+VN-OSK-120,2026-12-20,Sold,1,Gift purchase with receipt
+NK-AF1-090,2026-12-20,Sold,3,Holiday season restock
+NK-AF1-110,2026-12-20,Purchased,9,Customer exchange processed
+NK-AJ11-095,2026-12-20,Purchased,11,Rush order from supplier
+NK-AF1-100,2026-12-21,Purchased,12,Shipment arrived with minor box damage
+AD-CLC-105,2026-12-21,Purchased,4,Shipment arrived with minor box damage
+AD-CLC-095,2026-12-21,Purchased,10,Staff discount applied
+NK-AJ11-095,2026-12-21,Sold,2,Walk-in customer purchase
+AD-CMP-100,2026-12-21,Sold,3,Awaiting customer pickup
+AD-CLC-130,2026-12-21,Sold,3,Customer exchange processed
+NK-AJ11-100,2026-12-21,Purchased,9,Gift purchase with receipt
+AD-SMB-105,2026-12-21,Sold,3,Requested by floor supervisor
+NK-DNK-115,2026-12-21,Purchased,12,Inventory audit adjustment
+NK-AF1-100,2026-12-21,Sold,2,Rush order from supplier
+VN-OSK-120,2026-12-21,Sold,1,Walk-in customer purchase
+AD-SMB-100,2026-12-21,Sold,2,Vendor delivery confirmed
+AD-SMB-110,2026-12-21,Purchased,7,Awaiting customer pickup
+AD-CMP-105,2026-12-21,Sold,2,Special order item
+NK-AJ11-105,2026-12-21,Sold,1,Vendor delivery confirmed
+AD-SMB-115,2026-12-22,Sold,1,Loyalty member transaction
+NK-AJ11-100,2026-12-22,Sold,3,Checked against PO #4821
+AD-CMP-120,2026-12-22,Purchased,9,Customer exchange processed
+NK-AJ11-110,2026-12-22,Sold,2,Awaiting customer pickup
+AD-SMB-115,2026-12-22,Sold,2,Vendor delivery confirmed
+NK-CTZ-105,2026-12-22,Purchased,5,Loyalty member transaction
+AD-CLC-105,2026-12-22,Sold,1,Customer exchange processed
+NK-DNK-090,2026-12-22,Purchased,8,Gift purchase with receipt
+AD-SMB-115,2026-12-22,Sold,5,End of day batch entry — quantity unverified
+NK-AJ11-100,2026-12-23,Purchased,10,Special order item
+NK-AJ11-105,2026-12-23,Sold,3,Staff discount applied
+AD-SMB-115,2026-12-23,Sold,3,Shipment arrived with minor box damage
+VN-OSK-110,2026-12-23,Purchased,8,Phone order placed earlier
+VN-OSK-110,2026-12-23,Sold,2,Requested by floor supervisor
+AD-SMB-105,2026-12-23,Sold,1,Requested by floor supervisor
+AD-CMP-100,2026-12-23,Sold,3,Staff discount applied
+AD-CMP-090,2026-12-23,Sold,3,Phone order placed earlier
+AD-SMB-100,2026-12-23,Purchased,10,Awaiting customer pickup
+VN-OSK-110,2026-12-23,Sold,2,Awaiting customer pickup
+NK-CTZ-090,2026-12-24,Sold,2,Shipment arrived with minor box damage
+AD-SMB-115,2026-12-24,Sold,3,Holiday season restock
+NK-AJ11-100,2026-12-24,Purchased,5,Rush order from supplier
+VN-OSK-105,2026-12-24,Sold,3,Awaiting customer pickup
+NK-AF1-095,2026-12-24,Sold,2,Online order fulfillment
+AD-SMB-100,2026-12-24,Sold,2,Loyalty member transaction
+NK-AJ11-105,2026-12-24,Purchased,9,Customer exchange processed
+AD-SMB-090,2026-12-24,Purchased,8,Requested by floor supervisor
+NK-AF1-120,2026-12-25,Sold,3,Checked against PO #4821
+AD-CLC-110,2026-12-25,Sold,1,Holiday season restock
+NK-CTZ-090,2026-12-25,Purchased,7,Rush order from supplier
+VN-OSK-090,2026-12-25,Purchased,7,Phone order placed earlier
+AD-CLC-110,2026-12-25,Sold,1,Inventory audit adjustment
+AD-SMB-115,2026-12-25,Sold,3,Vendor delivery confirmed
+NK-DNK-115,2026-12-25,Sold,3,Shipment arrived with minor box damage
+AD-SMB-095,2026-12-26,Sold,1,Phone order placed earlier
+AD-CMP-110,2026-12-26,Sold,2,Holiday season restock
+VN-OSK-110,2026-12-26,Sold,3,Vendor delivery confirmed
+VN-OSK-095,2026-12-26,Purchased,7,Online order fulfillment
+VN-OSK-110,2026-12-26,Purchased,7,Loyalty member transaction
+NK-CTZ-110,2026-12-26,Sold,1,Loyalty member transaction
+NK-DNK-115,2026-12-26,Purchased,6,Checked against PO #4821
+AD-CLC-095,2026-12-27,Sold,1,Gift purchase with receipt
+NK-DNK-130,2026-12-27,Sold,1,Customer exchange processed
+AD-CLC-105,2026-12-27,Sold,3,Awaiting customer pickup
+NK-CTZ-090,2026-12-27,Sold,2,Walk-in customer purchase
+NK-DNK-100,2026-12-27,Sold,2,Holiday season restock
+AD-CLC-105,2026-12-27,Sold,1,Weekend sale transaction
+NK-AJ11-120,2026-12-27,Purchased,8,Phone order placed earlier
+NK-DNK-100,2026-12-27,Purchased,6,Holiday season restock
+NK-AJ11-110,2026-12-27,Purchased,10,Vendor delivery confirmed
+AD-SMB-110,2026-12-28,Sold,1,Inventory audit adjustment
+AD-CMP-120,2026-12-28,Purchased,12,Online order fulfillment
+NK-CTZ-105,2026-12-28,Purchased,5,Verified by manager on duty
+VN-OSK-095,2026-12-28,Purchased,5,Customer exchange processed
+NK-DNK-100,2026-12-28,Purchased,12,Awaiting customer pickup
+AD-SMB-110,2026-12-28,Sold,2,Return processed separately
+NK-AF1-120,2026-12-29,Purchased,5,Walk-in customer purchase
+NK-DNK-130,2026-12-29,Sold,1,Requested by floor supervisor
+VN-OSK-090,2026-12-29,Sold,2,Online order fulfillment
+NK-AF1-110,2026-12-29,Purchased,12,Walk-in customer purchase
+NK-AJ11-110,2026-12-29,Sold,2,Staff discount applied
+NK-DNK-110,2026-12-29,Sold,1,Holiday season restock
+NK-AJ11-120,2026-12-29,Purchased,4,Customer exchange processed
+AD-CMP-105,2026-12-29,Purchased,6,Customer exchange processed
+VN-OSK-100,2026-12-29,Sold,2,Customer exchange processed
+NK-DNK-090,2026-12-29,Sold,2,Special order item
+NK-AJ11-120,2026-12-30,Purchased,10,Shipped from warehouse
+NK-CTZ-090,2026-12-30,Purchased,9,Shipment arrived with minor box damage
+AD-CLC-095,2026-12-30,Purchased,9,Weekend sale transaction
+NK-AJ11-095,2026-12-30,Purchased,10,Rush order from supplier
+NK-DNK-100,2026-12-30,Purchased,11,Gift purchase with receipt
+NK-AF1-105,2026-12-30,Purchased,4,Holiday season restock
+NK-AJ11-100,2026-12-30,Sold,1,Rush order from supplier
+NK-CTZ-100,2026-12-30,Sold,3,Phone order placed earlier
+NK-AF1-100,2026-12-30,Purchased,12,Walk-in customer purchase
+AD-CMP-100,2026-12-30,Sold,1,Shipment arrived with minor box damage
+VN-OSK-090,2026-12-30,Purchased,11,Gift purchase with receipt
+NK-AF1-095,2026-12-30,Purchased,4,Customer exchange processed
+AD-CMP-105,2026-12-30,Sold,3,Shipped from warehouse
+AD-SMB-090,2026-12-30,Sold,3,Awaiting customer pickup
