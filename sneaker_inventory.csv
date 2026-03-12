@@ -1,0 +1,45 @@
+SKU,Brand,Style,Size,Cost_Per_Unit,Count_On_Hand
+NK-AF1-090,Nike,Air Force 1 Low,9.0,120,14
+NK-AF1-095,Nike,Air Force 1 Low,9.5,120,5
+NK-AF1-100,Nike,Air Force 1 Low,10.0,120,4
+NK-AF1-105,Nike,Air Force 1 Low,10.5,120,15
+NK-AF1-110,Nike,Air Force 1 Low,11.0,120,8
+NK-AF1-120,Nike,Air Force 1 Low,12.0,120,7
+NK-DNK-090,Nike,Dunk Low,9.0,130,7
+NK-DNK-095,Nike,Dunk Low,9.5,130,6
+NK-DNK-100,Nike,Dunk Low,10.0,130,15
+NK-DNK-110,Nike,Dunk Low,11.0,130,5
+NK-DNK-115,Nike,Dunk Low,11.5,130,14
+NK-DNK-130,Nike,Dunk Low,13.0,130,15
+NK-AJ11-095,Nike,Air Jordan 11,9.5,200,18
+NK-AJ11-100,Nike,Air Jordan 11,10.0,200,12
+NK-AJ11-105,Nike,Air Jordan 11,10.5,200,5
+NK-AJ11-110,Nike,Air Jordan 11,11.0,200,13
+NK-AJ11-120,Nike,Air Jordan 11,12.0,200,10
+NK-CTZ-090,Nike,Cortez,9.0,90,4
+NK-CTZ-095,Nike,Cortez,9.5,90,4
+NK-CTZ-100,Nike,Cortez,10.0,90,5
+NK-CTZ-105,Nike,Cortez,10.5,90,7
+NK-CTZ-110,Nike,Cortez,11.0,90,7
+AD-SMB-090,Adidas,Samba,9.0,110,12
+AD-SMB-095,Adidas,Samba,9.5,110,13
+AD-SMB-100,Adidas,Samba,10.0,110,4
+AD-SMB-105,Adidas,Samba,10.5,110,12
+AD-SMB-110,Adidas,Samba,11.0,110,7
+AD-SMB-115,Adidas,Samba,11.5,110,15
+AD-CMP-090,Adidas,Campus 00s,9.0,100,14
+AD-CMP-100,Adidas,Campus 00s,10.0,100,15
+AD-CMP-105,Adidas,Campus 00s,10.5,100,12
+AD-CMP-110,Adidas,Campus 00s,11.0,100,10
+AD-CMP-120,Adidas,Campus 00s,12.0,100,7
+AD-CLC-095,Adidas,Climacool,9.5,130,11
+AD-CLC-100,Adidas,Climacool,10.0,130,13
+AD-CLC-105,Adidas,Climacool,10.5,130,8
+AD-CLC-110,Adidas,Climacool,11.0,130,16
+AD-CLC-130,Adidas,Climacool,13.0,130,17
+VN-OSK-090,Vans,Old Skool,9.0,70,4
+VN-OSK-095,Vans,Old Skool,9.5,70,16
+VN-OSK-100,Vans,Old Skool,10.0,70,16
+VN-OSK-105,Vans,Old Skool,10.5,70,6
+VN-OSK-110,Vans,Old Skool,11.0,70,15
+VN-OSK-120,Vans,Old Skool,12.0,70,10
