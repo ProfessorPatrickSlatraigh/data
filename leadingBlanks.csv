@@ -1,0 +1,51 @@
+id, city, state, population
+1,Birmingham,AL,197575
+2,Anchorage,AK,291538
+3,Phoenix,AZ,1608139
+4,Little Rock,AR,202591
+5,Los Angeles,CA,3898747
+6,Denver,CO,715522
+7,Bridgeport,CT,148654
+8,Wilmington,DE,70898
+9,Jacksonville,FL,949611
+10,Atlanta,GA,498715
+11,Honolulu,HI,350964
+12,Boise,ID,235684
+13,Chicago,IL,2746388
+14,Indianapolis,IN,887642
+15,Des Moines,IA,214133
+16,Wichita,KS,397532
+17,Louisville,KY,628594
+18,New Orleans,LA,383997
+19,Portland,ME,68408
+20,Baltimore,MD,576498
+21,Boston,MA,675647
+22,Detroit,MI,632464
+23,Minneapolis,MN,429954
+24,Jackson,MS,153701
+25,Kansas City,MO,508090
+26,Billings,MT,117116
+27,Omaha,NE,486051
+28,Las Vegas,NV,641903
+29,Manchester,NH,115644
+30,Newark,NJ,311549
+31,Albuquerque,NM,564559
+32,New York,NY,8804190
+33,Charlotte,NC,874579
+34,Fargo,ND,125990
+35,Columbus,OH,905748
+36,Oklahoma City,OK,681054
+37,Portland,OR,652503
+38,Philadelphia,PA,1603797
+39,Providence,RI,190934
+40,Charleston,SC,150227
+41,Sioux Falls,SD,202078
+42,Nashville,TN,689447
+43,Houston,TX,2304580
+44,Salt Lake City,UT,199723
+45,Burlington,VT,44743
+46,Virginia Beach,VA,457672
+47,Seattle,WA,737015
+48,Charleston,WV,48564
+49,Milwaukee,WI,577222
+50,Cheyenne,WY,65132
