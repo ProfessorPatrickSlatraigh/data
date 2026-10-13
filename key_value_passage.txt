@@ -1,0 +1,10 @@
+Every key has a value, and every value has a key.
+The dictionary holds the keys, and the keys hold the values.
+Count the words, count the words, count the words again;
+Counting is the work, and the work is never done.
+Some words appear once, and some words appear often.
+The, the, the: the most common word of all!
+Capital or lowercase? The program cannot tell.
+Python says Word and word are different, but we know they are the same.
+So lower the case, strip the punctuation, and count again.
+Is it Key, or key, or KEY? Count them all as one key.
