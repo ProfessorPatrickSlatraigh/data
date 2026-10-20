@@ -1,0 +1,10 @@
+date,store,amount
+2026-10-01,Midtown,125.50
+2026-10-01,Brooklyn,98.25
+2026-10-02,Midtown,n/a
+2026-10-02,Queens,143.00
+2026-10-03,Brooklyn
+2026-10-03,Midtown,87.75
+
+2026-10-04,Queens,110.40
+2026-10-04,Brooklyn,$62.10
