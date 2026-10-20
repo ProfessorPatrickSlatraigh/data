@@ -1,0 +1,51 @@
+abbreviation	statehood_year	population_2020	gdp_2020_millions	bird	flower	nickname
+DE	1787	989948	78962.5	Delaware Blue Hen	Peach Blossom	First State
+NJ	1787	9288994	632899.7	American Goldfinch	Violet	Garden State
+PA	1787	13002700	780384.5	Ruffed Grouse	Mountain Laurel	Keystone State
+CT	1788	3605944	279836.8	American Robin	Mountain Laurel	Constitution State
+GA	1788	10711908	638444.7	Brown Thrasher	Cherokee Rose	Peach State
+MD	1788	6177224	413343.8	Baltimore Oriole	Black-eyed Susan	Old Line State
+MA	1788	7029917	590751.1	Black-capped Chickadee	Mayflower	Bay State
+NH	1788	1377529	89328.2	Purple Finch	Purple Lilac	Granite State
+NY	1788	20201249	1774499.3	Eastern Bluebird	Rose	Empire State
+SC	1788	5118425	248301.6	Carolina Wren	Yellow Jessamine	Palmetto State
+VA	1788	8631393	566101.5	Northern Cardinal	American Dogwood	Old Dominion
+NC	1789	10439388	600774.8	Northern Cardinal	Flowering Dogwood	Tar Heel State
+RI	1790	1097379	62321.1	Rhode Island Red	Violet	Ocean State
+VT	1791	643077	34694.4	Hermit Thrush	Red Clover	Green Mountain State
+KY	1792	4505836	218433.1	Northern Cardinal	Goldenrod	Bluegrass State
+TN	1796	6910840	390625.3	Northern Mockingbird	Iris	Volunteer State
+OH	1803	11799448	695522.9	Northern Cardinal	Red Carnation	Buckeye State
+LA	1812	4657757	233160.3	Brown Pelican	Magnolia	Pelican State
+IN	1816	6785528	379262.5	Northern Cardinal	Peony	Hoosier State
+MS	1817	2961279	117336.8	Northern Mockingbird	Magnolia	Magnolia State
+IL	1818	12812508	866530.3	Northern Cardinal	Violet	Prairie State
+AL	1819	5024279	235702.2	Yellowhammer	Camellia	Yellowhammer State
+ME	1820	1362359	72030.7	Black-capped Chickadee	White Pine Cone and Tassel	Pine Tree State
+MO	1821	6154913	336471.4	Eastern Bluebird	Hawthorn	Show-Me State
+AR	1836	3011524	135967.3	Northern Mockingbird	Apple Blossom	The Natural State
+MI	1837	10077331	529754.4	American Robin	Apple Blossom	Great Lakes State
+FL	1845	21538187	1143476.9	Northern Mockingbird	Orange Blossom	Sunshine State
+TX	1845	29145505	1813618.5	Northern Mockingbird	Bluebonnet	Lone Star State
+IA	1846	3190369	197359.8	American Goldfinch	Wild Prairie Rose	Hawkeye State
+WI	1848	5893718	345403.7	American Robin	Wood Violet	Badger State
+CA	1850	39538223	3076253.6	California Quail	California Poppy	Golden State
+MN	1858	5706494	378295.5	Common Loon	Pink and White Lady's Slipper	North Star State
+OR	1859	4237256	249976.0	Western Meadowlark	Oregon Grape	Beaver State
+KS	1861	2937880	175226.3	Western Meadowlark	Sunflower	Sunflower State
+WV	1863	1793716	77474.1	Northern Cardinal	Rhododendron	Mountain State
+NV	1864	3104614	175226.8	Mountain Bluebird	Sagebrush	Silver State
+NE	1867	1961504	135666.6	Western Meadowlark	Goldenrod	Cornhusker State
+CO	1876	5773714	396018.1	Lark Bunting	Rocky Mountain Columbine	Centennial State
+MT	1889	1084225	53084.0	Western Meadowlark	Bitterroot	Treasure State
+ND	1889	779094	56522.0	Western Meadowlark	Wild Prairie Rose	Peace Garden State
+SD	1889	886667	56814.6	Ring-necked Pheasant	American Pasqueflower	Mount Rushmore State
+WA	1889	7705281	616928.6	American Goldfinch	Coast Rhododendron	Evergreen State
+ID	1890	1839106	88016.8	Mountain Bluebird	Syringa	Gem State
+WY	1890	576851	36982.7	Western Meadowlark	Indian Paintbrush	Equality State
+UT	1896	3271616		California Gull	Sego Lily	Beehive State
+OK	1907	3959353	192291.1	Scissor-tailed Flycatcher	Oklahoma Rose	Sooner State
+AZ	1912	7151502	389957.4	Cactus Wren	Saguaro Cactus Blossom	Grand Canyon State
+NM	1912	2117522	100889.1	Greater Roadrunner	Yucca Flower	Land of Enchantment
+AK	1959	733391	51904.4	Willow Ptarmigan	Forget-me-not	The Last Frontier
+HI	1959	1455271	84699.7	Nene	Yellow Hibiscus	Aloha State
